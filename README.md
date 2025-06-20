@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Esse são alguns exercícios pequenos que reúne desenvolvidos em 2023 como parte do meu aprendizado em JavaScript básico. Os exemplos são simples e têm como objetivo praticar conceitos fundamentais, como:</p>
+<p align="left">Esse são alguns exercícios pequenos que achei desenvolvidos em 2023 como parte do meu aprendizado em JavaScript básico. Os exemplos são simples e têm como objetivo praticar conceitos fundamentais, como:</p>
 
 ###
 
