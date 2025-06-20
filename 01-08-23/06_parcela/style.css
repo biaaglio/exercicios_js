@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container-main {
+    border-radius: 15px;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid rgb(161, 161, 161);
+}
+label {
+    display: block;
+    font-weight: bold;
+}
+input[type="text"], input[type="number"] {
+    width: 93%;
+    padding: 10px;
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 5px;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #f29c24;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 8px;
+}
+button:hover {
+    background-color: #feb248;
+}
+button:active{
+    background-color: #da8919;
+}
+label, input, button {
+    margin-bottom: 8px;
+}
+#saida {
+    border: 1px solid  rgb(161, 161, 161);
+    margin-bottom: 10px;
+}
+.color {
+    width: 100%;
+    padding: 10px;
+    background-color: #4d0653;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
